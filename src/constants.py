@@ -1,0 +1,3 @@
+BLACK_RGB = (0, 0, 0)
+BLACK_RGBA = (0, 0, 0, 255)
+WHITE_RGB = (255, 255, 255)
